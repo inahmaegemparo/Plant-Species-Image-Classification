@@ -224,3 +224,101 @@ Common Name: Bittervine (locally known as Hagonoy in some regions)
 Scientific Name: Mikania micrantha
 
 Description: A fast-growing, perennial creeping vine that belongs to the sunflower family. It is easily identified by its heart-shaped leaves and dense clusters of small, white to greenish flowers. While often considered an invasive "mile-a-minute" weed, it is used in traditional medicine for its ability to stop bleeding from minor cuts (hemostatic property) and for its antimicrobial and analgesic effects on skin itches and wounds.
+
+# --------------C. Model Training Details--------------
+
+● Epochs: 50
+
+● Batch Size: 16
+
+● Learning Rate: 0.001
+
+-------------Number of images per class------------------
+
+Katakataka 250
+Turmeric 250
+Makahiya 250
+Candle Bush 250
+Madagascar Periwinkle 250
+Yerba Buena 250
+Sambong 250
+Abgaw 250
+Hilbas 250
+Lagundi 250
+Sambang Getih 250
+Papaya Leaves 250
+Sampasampalukan 250
+Yahong-yahong 250
+Saluyot 250
+Ginger 250
+Hauili 250
+Mansanitas 250
+Pomelo Leaves 250
+Bittervine 250
+
+# --------------D. Model Evaluation--------------
+
+<img width="255" height="534" alt="image" src="https://github.com/user-attachments/assets/1ebac158-83a7-4d9b-8da4-0a5e63b3f73f" />
+
+<img width="264" height="540" alt="image" src="https://github.com/user-attachments/assets/053f214f-5616-4328-a9a2-b01ebcb9bb79" />
+
+<img width="251" height="533" alt="image" src="https://github.com/user-attachments/assets/bca49bd0-5ca5-4adc-abb7-8d1bb0d578f9" />
+
+# Accuracy per class
+
+<img width="1357" height="655" alt="image" src="https://github.com/user-attachments/assets/de985c02-a051-433a-ab89-b1a0b23a1864" />
+
+# Overall model accuracy
+
+<img width="1347" height="655" alt="image" src="https://github.com/user-attachments/assets/66e2f610-abe0-4d5e-ab4a-ec07bacec0cc" />
+
+# --------------E. Model Testing--------------
+## Test 1 
+
+<img width="524" height="608" alt="image" src="https://github.com/user-attachments/assets/54b13590-86dd-4250-ae51-799117612594" />
+
+
+## Test 2
+
+<img width="528" height="596" alt="image" src="https://github.com/user-attachments/assets/cff746bf-d607-420e-8430-2508bc112a1b" />
+
+
+## Test 3 
+
+<img width="497" height="561" alt="image" src="https://github.com/user-attachments/assets/e5c26d2c-bc0c-403f-b1ad-d308a05baf9e" />
+
+
+## Test 4 
+
+<img width="496" height="588" alt="image" src="https://github.com/user-attachments/assets/55cd28b2-356b-4efa-89f0-6737d351ea15" />
+
+
+## Test 5 
+
+<img width="325" height="555" alt="image" src="https://github.com/user-attachments/assets/af1dab14-898d-4205-9958-18affc781c0c" />
+
+
+## Test 6 
+
+<img width="321" height="515" alt="image" src="https://github.com/user-attachments/assets/2eb5d306-3ef1-4028-9d29-5eaf8867b38c" />
+
+
+## Test 7 
+
+<img width="335" height="514" alt="image" src="https://github.com/user-attachments/assets/79db5096-7786-4026-b597-f0b30e0458d8" />
+
+
+## Test 8 
+
+<img width="366" height="455" alt="image" src="https://github.com/user-attachments/assets/967094aa-302c-4391-ae43-b995e809f1b3" />
+
+
+## Test 9
+
+<img width="313" height="491" alt="image" src="https://github.com/user-attachments/assets/197b1829-0d53-41e5-a8a2-93201401606b" />
+
+
+## Test 10
+
+<img width="313" height="571" alt="image" src="https://github.com/user-attachments/assets/473f3ffd-b6ec-4dde-b908-ace30e14f52d" />
+
