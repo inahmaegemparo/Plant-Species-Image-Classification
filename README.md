@@ -341,3 +341,16 @@ Bittervine 250
 
 <img width="313" height="571" alt="image" src="https://github.com/user-attachments/assets/473f3ffd-b6ec-4dde-b908-ace30e14f52d" />
 
+
+
+# --------------Reflection Questions--------------
+
+1. How did the number of images per class affect your model’s accuracy? Having over 250 images per class provided a strong baseline, as a larger dataset generally helps the model "see" more variations of a plant. By keeping the number of images balanced across all classes, such as Tawa-tawa and Mayana, the model avoided becoming biased toward one specific species. However, while the quantity was high, the overall accuracy of 54.1% suggests that many images may have been too similar or included too much background noise, limiting the model's ability to generalize in new environments
+
+2. Which plant species were most commonly misclassified and why? The most frequent misclassifications occurred between species like Escobilla, Hagonoy, and Hilbas because they share very similar vegetative features, such as green, serrated leaves and upright stems. To the model, these fine botanical differences are difficult to distinguish, especially when the background contains other greenery. In several photos, the presence of grass or weeds near the subject caused the model to "learn" the environment rather than the specific plant, leading to confusion when those same background elements appeared in other classes.
+
+3. How did changing the epochs, batch size, or learning rate affect the training results? Adjusting the training settings played a crucial role in how the model converged. Increasing the epochs helped lower the initial loss, but going too high risked "overfitting," where the model memorizes the training photos instead of learning how to identify the plant's actual features. A smaller batch size allowed the model to update its weights more frequently for granular learning, while a carefully tuned learning rate was necessary to ensure the model reached its peak accuracy without "overshooting" the most important visual patterns.
+
+4. What challenges did you encounter during dataset collection and labeling? The physical accessibility of certain species in their natural habitats, as plants like Bugang or Hagonoy often grow in dense, overgrown areas that make clear photography difficult. The presence of co-occurring vegetation in the frame meant the model frequently struggled to distinguish the target plant from the surrounding weeds. Furthermore, the variable growth stages of the plants—where a young Mayana looks significantly different from a mature one—made it hard for the model to find a single, consistent "signature" for each class.
+
+5. If you were to improve your model, what specific changes would you make and why? To improve accuracy, I would photograph leaves against a neutral, solid background to force the model to focus on leaf architecture. Adding specific photos of unique features—like the white flowers of Bugang—and using data augmentation (cropping/rotating) would also help the model recognize plants in various conditions.
