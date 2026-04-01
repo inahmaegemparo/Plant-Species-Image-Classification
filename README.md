@@ -88,7 +88,7 @@ Description: A tall, hairy, half-woody herb that emits a strong camphor-like odo
 
 ## 8. Abgaw
 
-
+<im width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/91fe1f78-42c3-4a7a-9d96-3af5900ebc71" />
 
 Common Name: Abgaw (Alagaw)
 
@@ -98,6 +98,7 @@ Description: A small tree or shrub with aromatic, broad, ovate leaves that are o
 
 ## 9. Hilbas
 
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/5b0c064d-76d1-4397-a67d-412de34ad546" />
 
 
 Common Name: Hilbas (Damong Maria)
@@ -108,6 +109,7 @@ Description: Also known as Mugwort, this is an erect perennial herb with deeply 
 
 ## 10. Lagundi
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/eddf7f53-7648-4290-a104-8acafeaf495d" />
 
 Common Name: Lagundi
 
@@ -117,6 +119,7 @@ Description: A large shrub with distinct finger-like (palmate) leaves, usually c
 
 ## 11. Sambang Getih
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/bdc1493e-c6f0-40d2-a398-63379940ccaf" />
 
 Common Name: Sambang Getih
 
@@ -125,6 +128,9 @@ Scientific Name: Hemigraphis alternata
 Description: A low-creeping herb often used as groundcover. It is striking for its metallic, silvery-purple leaves that are deep red underneath. It is traditionally used to promote wound healing and check bleeding.
 
 ## 12. Papaya Leaves
+
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/1a8664c3-8195-4932-b067-3df076fa1194" />
+
 Common Name: Papaya Leaves
 
 Scientific Name: Carica papaya
@@ -133,6 +139,7 @@ Description: Large, deeply palmately lobed leaves belonging to the papaya tree. 
 
 ## 13. Sampasampalukan
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/9668e3a9-e75e-4811-9b17-27ea090c3b95" />
 
 Common Name: Sampasampalukan
 
@@ -141,6 +148,8 @@ Scientific Name: Phyllanthus niruri
 Description: A small, erect herb that looks like a miniature tamarind tree due to its small, thin leaflets arranged in rows. It is famously known as "Stonebreaker" because of its traditional use in treating kidney and gallbladder stones.
 
 ## 14. Yahong-yahong
+
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/153f039a-829f-4af2-8983-ed11570feb27" />
 
 
 Common Name: Yahong-yahong (Gotu Kola)
@@ -151,6 +160,8 @@ Description: A small, creeping herb with kidney-shaped or fan-shaped leaves. It 
 
 ## 15. Saluyot
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/0ee84311-46c9-4e0d-81d7-fd75f234dfee" />
+
 
 Common Name: Saluyot
 
@@ -160,6 +171,7 @@ Description: A tall, leafy vegetable characterized by its slightly serrated leav
 
 ## 16. Ginger
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/cf7db1e5-bdb6-484e-bbf1-b2766b8ea9e2" />
 
 Common Name: Ginger (Luya)
 
@@ -169,6 +181,8 @@ Description: A herbaceous perennial with narrow, grass-like leaves and yellowish
 
 ## 17. Hauili
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/90bef54d-0025-46a7-9ce3-43b4f0430bfe" />
+
 
 Common Name: Hauili
 
@@ -177,6 +191,8 @@ Scientific Name: Ficus septica
 Description: A small tree or shrub belonging to the fig family, characterized by large, glossy, opposite leaves with prominent veins. It produces small, stalkless figs along its branches and is often used in traditional medicine to treat skin diseases and rheumatism.
 
 ## 18. Mansanitas
+
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/63f6dc61-c37e-42e2-8cee-e719ddc89a4b" />
 
 
 Common Name: Mansanitas (Aratiles)
@@ -188,6 +204,8 @@ Description: Also known as the Jamaican Cherry, this is a fast-growing tree with
 
 ## 19. Pomelo Leaves
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/bdc6d85a-2a78-4091-9e10-5455741c8675" />
+
 
 Common Name: Pomelo Leaves
 
@@ -197,6 +215,8 @@ Description: Large, shiny, dark green leaves with winged petioles. The leaves ca
 
 
 ## 20. Bittervine
+
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/93091fe5-a851-4254-9847-3de7150ec64d" />
 
 
 Common Name: Bittervine (locally known as Hagonoy in some regions)
