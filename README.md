@@ -36,7 +36,7 @@ Description: A leafy perennial in the ginger family featuring large, green blade
 
 ## 3. Makahiya
 
-<img width="522" height="522" alt="image" src="https://github.com/user-attachments/assets/4c894894-924b-4e4b-ac38-eafaf4a79ed1" />
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/4c894894-924b-4e4b-ac38-eafaf4a79ed1" />
 
 Sensitive Plant / Touch-me-not
 
