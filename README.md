@@ -236,24 +236,43 @@ Description: A fast-growing, perennial creeping vine that belongs to the sunflow
 -------------Number of images per class------------------
 
 Katakataka 250
+
 Turmeric 250
+
 Makahiya 250
+
 Candle Bush 250
+
 Madagascar Periwinkle 250
+
 Yerba Buena 250
+
 Sambong 250
+
 Abgaw 250
+
 Hilbas 250
+
 Lagundi 250
+
 Sambang Getih 250
+
 Papaya Leaves 250
+
 Sampasampalukan 250
+
 Yahong-yahong 250
+
 Saluyot 250
+
 Ginger 250
+
 Hauili 250
+
 Mansanitas 250
+
 Pomelo Leaves 250
+
 Bittervine 250
 
 # --------------D. Model Evaluation--------------
