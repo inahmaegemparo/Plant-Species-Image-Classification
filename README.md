@@ -9,3 +9,7 @@ This project uses Teachable Machine to build an image classification model for i
 ● Purpose of the image classification model
 
 The purpose of this model is to automate botanical identification through image analysis. By recognizing unique patterns and features, it provides an accurate digital tool to distinguish plant species and prevent misidentification.
+
+# --------------B. Plant Species Section--------------
+
+20 MEDICINAL PLANTS
