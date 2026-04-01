@@ -66,7 +66,7 @@ Scientific Name: Senna alata
 Description: An ornamental and medicinal shrub named for its upright yellow flower spikes that resemble waxy candles. It has large, oblong leaflets and is widely used in tropical medicine as a potent antifungal treatment for skin conditions like ringworm.
 
 
-## Madagascar Periwinkle
+## 6. Madagascar Periwinkle
 
 <img width="259" height="194"  alt="image" src="https://github.com/user-attachments/assets/1705dcc7-7f4e-4467-aaf5-7848355751ae" />
 
