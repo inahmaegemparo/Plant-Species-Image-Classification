@@ -13,3 +13,6 @@ The purpose of this model is to automate botanical identification through image 
 # --------------B. Plant Species Section--------------
 
 20 MEDICINAL PLANTS
+
+1. Katakataka
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/715f2161-83a0-4c0b-97dd-0cd2ffa67435" />
