@@ -16,3 +16,9 @@ The purpose of this model is to automate botanical identification through image 
 
 1. Katakataka
  <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/715f2161-83a0-4c0b-97dd-0cd2ffa67435" />
+
+  Common Name: Katakataka
+
+  Scientific Name: Bryophyllum pinnatum
+
+  Description: A succulent plant recognizable by its thick, scalloped, fleshy leaves. It is often called the "Life Plant" because new   plantlets can sprout from the edges of a single leaf even after it is detached. It is traditionally used as a poultice for wounds, burns, and to relieve headaches.
