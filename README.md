@@ -25,7 +25,7 @@ The purpose of this model is to automate botanical identification through image 
 
 2. Turmeric
 
-     <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/a0ef7794-c74b-4395-b500-60d0c7e632e5" />
+  <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/a0ef7794-c74b-4395-b500-60d0c7e632e5" />
 
 Common Name: Turmeric (Luyang Dilaw)
 
