@@ -22,3 +22,12 @@ The purpose of this model is to automate botanical identification through image 
   Scientific Name: Bryophyllum pinnatum
 
   Description: A succulent plant recognizable by its thick, scalloped, fleshy leaves. It is often called the "Life Plant" because new   plantlets can sprout from the edges of a single leaf even after it is detached. It is traditionally used as a poultice for wounds, burns, and to relieve headaches.
+
+2. Turmeric
+   <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/a0ef7794-c74b-4395-b500-60d0c7e632e5" />
+
+Common Name: Turmeric (Luyang Dilaw)
+
+Scientific Name: Curcuma longa
+
+Description: A leafy perennial in the ginger family featuring large, green blades and a signature bright orange-yellow rhizome. It is globally famous as a spice and a powerful medicinal herb, highly valued for its antioxidant and anti-inflammatory "curcumin" content.
